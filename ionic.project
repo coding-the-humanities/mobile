@@ -1,0 +1,5 @@
+{
+  "name": "cth-cards",
+  "app_id": "",
+  "gulpStartupTasks": ["sass", "traceur", "watch"]
+}
